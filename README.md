@@ -1,4 +1,4 @@
-# Off-Centre-Camera
+# Off-Centre Camera
 A mod for Mafia: The City of Lost Heaven (2002).
 
 **Instructions:** Rename/the mission you want to test to 'TUTORIAL', and run the Tutorial. Patching rw_data.DLL with MafiaDataXtractor is required, (if you've never done it or never installed mods before).
